@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack dev from India</h3>
 
 - 🔭 I’m currently working on [NightLyfe](https://github.com/younglord088/NightLyfe-)
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Online Banking System](https://github.com/younglord088/Online-Banking)
 
-- 💬 Ask me about **react , ML**
+- 💬 Ask me about ** Web Developement, ML**
 
 - 📫 How to reach me **yashmpanjwani@gmail.com**
 
