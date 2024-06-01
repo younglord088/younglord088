@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/younglord088/younglord088/assets/76179974/cc239178-7410-451e-b0d8-290ea074f383" alt="work">
+ <img src="https://github.com/younglord088/younglord088/assets/76179974/cc239178-7410-451e-b0d8-290ea074f383" alt="work" width="600" height="500">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yash</h1>
