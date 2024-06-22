@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Online Banking System](https://github.com/younglord088/Online-Banking)
 
-- 💬 Ask me about ** Web Developement, ML**
+- 💬 Ask me about **Web Developement, ML**
 
 - 📫 How to reach me **yashmpanjwani@gmail.com**
 
